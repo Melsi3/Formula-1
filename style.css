@@ -1,0 +1,9 @@
+.cabeçalho{
+    background-color: firebrick;
+    color: white;
+    display: flex;
+}
+
+.cabeçalho-imagem{
+width: 20%;
+}
